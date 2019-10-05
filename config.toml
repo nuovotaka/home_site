@@ -87,3 +87,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "Privacy"
+    url = "page/privacy/"
+    weight = 4
