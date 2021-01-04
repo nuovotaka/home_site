@@ -13,6 +13,10 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[languages]
+  [languages.ja]
+    contentDir = "content/" # Japanese
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "自分の琴線にふれたモノを勝手に紹介していくサイトです。分かりやすく言うと衝撃を受けたモノということです。"
