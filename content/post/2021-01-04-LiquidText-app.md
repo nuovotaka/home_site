@@ -1,7 +1,7 @@
 ---
-title: LiquidText
+title: LiquidTextの紹介
 date: 2021-01-04
-tags: ["LiquidText"]
+tags: ["App"]
 ---
 
 ## PDFファイルはコレで
